@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper Terminal game combat function", "Grasshopper Terminal game combat function\Grasshopper Terminal game combat function.csproj", "{526526CE-39E6-411E-8368-86E1E48B699A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526526CE-39E6-411E-8368-86E1E48B699A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526526CE-39E6-411E-8368-86E1E48B699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526526CE-39E6-411E-8368-86E1E48B699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526526CE-39E6-411E-8368-86E1E48B699A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
